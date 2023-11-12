@@ -1,8 +1,10 @@
 import './Button.css'
 
-const Button = () => {
+const Button = (props) => {
   return (
-    <p>Implement Button</p>
+    <button className='button'>
+      {props.children}  
+    </button>
   );
 }
 
