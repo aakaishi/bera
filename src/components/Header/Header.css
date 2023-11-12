@@ -1,0 +1,18 @@
+.top {
+  background-color: #FFE6C3;
+  color: black;
+  font-size: 10px;
+  height: 30px;
+  margin-top: 5px;
+}
+
+.middle {
+  display: flex;
+  justify-content: space-between;
+  background-color: #FFFFFF;
+}
+
+.bottom {
+  background-color: #FFE6C3;
+  height: 30px;
+}
